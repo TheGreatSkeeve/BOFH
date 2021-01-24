@@ -1,1 +1,1 @@
-FLASK_APP=bofh.thc-lab.net.py
+FLASK_APP=main
